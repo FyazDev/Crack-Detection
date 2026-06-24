@@ -1,3 +1,12 @@
+---
+title: Crack Detection
+emoji: 🔍
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
+
 # Crack Detection
 
 An AI-powered concrete crack detection and segmentation web application. 
