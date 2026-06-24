@@ -2,7 +2,7 @@
 
 I am excited to share **Crack Detection**, an end-to-end AI application designed to automate structural health monitoring. By leveraging deep learning, this tool helps engineers and inspectors instantly identify defects, visualize crack paths, and estimate structural damage.
 
-👉 **Try the Live Application:** [Hugging Face Space](https://huggingface.co/spaces/FyazNafin/crack-detection)
+👉 **Try the Live Application:** [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/FyazNafin/crack-detection)
 *⚡ Note: Because it is running on a free cloud container, it may take a few moments to wake up if it has been idle.*
 
 #### ✨ Key Features
@@ -14,7 +14,8 @@ I am excited to share **Crack Detection**, an end-to-end AI application designed
 
 #### 🛠️ How to Test It Yourself
 
-1. Click the **[Live Space Link](https://huggingface.co/spaces/FyazNafin/crack-detection)**.
+1. The application is fully deployed and available to test online. 
+👉 **[Click here to view the live demo](https://huggingface.co/spaces/FyazNafin/crack-detection)**
 2. Upload any image of a concrete surface, wall, or pavement.
 3. The AI will instantly return a segmented overlay highlighting the crack alongside its estimated structural metrics.
 
