@@ -1,3 +1,13 @@
+---
+title: Crack Detection
+emoji: 🔍
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
+
+
 ### 🔍 Live Demo: AI-Powered Concrete Crack Detection & Segmentation
 
 I am excited to share **Crack Detection**, an end-to-end AI application designed to automate structural health monitoring. By leveraging deep learning, this tool helps engineers and inspectors instantly identify defects, visualize crack paths, and estimate structural damage.
